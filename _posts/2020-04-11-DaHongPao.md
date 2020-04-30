@@ -4,7 +4,7 @@ title: TeaDM - Boba in Alexandria
 date: April 29, 2020
 ---
 
-![milk tea from TeaDM](/public/images/Egg_Tart.jpg)
+![milk tea from TeaDM](public/images/Egg_Tart.jpg)
 
 [Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
