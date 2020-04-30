@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: CHIKO - Kimchi Stew
 ---
 
-![soup dumplings](/public/images/soup_dumpling.jpg)
+![CHIKO Kimchi Stew](/public/images/Kimchi_Jigae.jpg)
 
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
