@@ -1,5 +1,5 @@
-I"�<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+I"I<p class="message">
+  Hey there! This site was built as a side project as part of the AIGA DC SHINE 2020 Design mentorship program in an attempt to improve my digital illustration skills and bring in the stories of local Asian American businesses in the DMV to understand what they're going through and most importantly to support them by buying their delicious food :)
 </p>
 
 <p>In the novel, <em>The Strange Case of Dr. Jeykll and Mr. Hyde</em>, Mr. Poole is Dr. Jekyll’s virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It’s made by <a href="https://twitter.com/mdo">@mdo</a>.</p>
@@ -18,9 +18,10 @@
 <p>Some fun facts about the setup of this project include:</p>
 
 <ul>
-  <li>Built for <a href="https://jekyllrb.com">Jekyll</a></li>
-  <li>Developed on GitHub and hosted for free on <a href="https://pages.github.com">GitHub Pages</a></li>
-  <li>Coded with <a href="https://atom.io">Atom</a></li>
+  <li>Built on <a href="https://jekyllrb.com">Jekyll</a>, an open-source static site generator</li>
+  <li>Using the template <a href="https://github.com/poole/lanyon">Lanyon Theme</a></li>
+  <li>Developed on GitHub and hosted on <a href="https://pages.github.com">GitHub Pages</a></li>
+  <li>Coded with good ole’ <a href="https://sublimetext.com">Sublime Text</a></li>
 </ul>
 
 <p>Have questions or suggestions? Feel free to <a href="https://github.com/poole/issues/new">open an issue on GitHub</a> or <a href="https://twitter.com/mdo">ask me on Twitter</a>.</p>
