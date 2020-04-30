@@ -4,7 +4,7 @@
  <title>Conversations in Quarantine</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-04-30T18:30:20-04:00</updated>
+ <updated>2020-04-30T18:33:25-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Shirley Zhou</name>
@@ -21,7 +21,7 @@
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/public/images/dan_dan_mian.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/images/dan_dan_mian.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 
@@ -58,7 +58,7 @@
    <link href="http://localhost:4000/2020/04/29/whats-jekyll/"/>
    <updated>2020-04-29T00:00:00-04:00</updated>
    <id>http://localhost:4000/2020/04/29/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/images/Teadm_bubble_tea.jpg&quot; alt=&quot;milk tea from TeaDM&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;public/images/Teadm_bubble_tea.jpg&quot; alt=&quot;milk tea from TeaDM&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
@@ -81,7 +81,7 @@
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/public/images/soup_dumpling.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/images/soup_dumpling.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 
@@ -99,7 +99,7 @@
    <link href="http://localhost:4000/2020/04/03/introducing-lanyon/"/>
    <updated>2020-04-03T00:00:00-04:00</updated>
    <id>http://localhost:4000/2020/04/03/introducing-lanyon</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/images/Kimchi_Jigae.jpg&quot; alt=&quot;CHIKO Kimchi Stew&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;public/images/Kimchi_Jigae.jpg&quot; alt=&quot;CHIKO Kimchi Stew&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
