@@ -4,7 +4,7 @@
  <title>Conversations in Quarantine</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-04-30T18:39:26-04:00</updated>
+ <updated>2020-04-30T18:44:32-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Shirley Zhou</name>
@@ -21,7 +21,7 @@
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;public/images/dan_dan_mian.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/images/Dan_Dan_Mian.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 
@@ -81,7 +81,7 @@
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;public/images/soup_dumpling.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/images/Soup_Dumpling.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 
