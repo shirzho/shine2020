@@ -4,7 +4,7 @@
  <title>Conversations in Quarantine</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-04-30T18:44:32-04:00</updated>
+ <updated>2020-05-03T16:59:49-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Shirley Zhou</name>
@@ -13,62 +13,73 @@
 
  
  <entry>
-   <title>Tiger Fork - Dan Dan Noodles</title>
-   <link href="http://localhost:4000/2020/04/30/example-content/"/>
+   <title>Tiger Fork</title>
+   <link href="http://localhost:4000/2020/04/30/tiger-fork/"/>
    <updated>2020-04-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/04/30/example-content</id>
+   <id>http://localhost:4000/2020/04/30/tiger-fork</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  &lt;b&gt;website:&lt;/b&gt; &lt;a href=&quot;https://www.tigerforkdc.com/&quot;&gt;tigerforkdc.com&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;how to get it:&lt;/b&gt; takeout or order it &lt;a href=&quot;https://www.trycaviar.com/m/tiger-fork-8356&quot;&gt;here&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;what it is:&lt;/b&gt; contemporary Chinese, Hong Kong fare
 &lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;public/images/Dan_Dan_Mian.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;p&gt;Dandan noodles or &lt;strong&gt;担担面&lt;/strong&gt; in Chinese is a traditional Szechuan noodle dish with a sauce made from sesame paste, chili oil and some ground meat. I love this dish for its spices-served cold to balance out that kick.  Tiger Fork’s rendition adds lamb and cumin as well.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+  &lt;p&gt;“Insert a quote here if you ever hear back from them haha”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-
+&lt;p&gt;The management group which Tiger Fork is a part of has started a staff relief gofundme for there restaurant staff and workers. You can access the link &lt;a href=&quot;https://tinyurl.com/BHGFund&quot;&gt;here&lt;/a&gt; to help them out.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>TeaDM - Boba in Alexandria</title>
-   <link href="http://localhost:4000/2020/04/29/DaHongPao/"/>
+   <title>Da Hong Pao - DC Dim Sum</title>
+   <link href="http://localhost:4000/2020/04/29/da-hong-pao/"/>
    <updated>2020-04-29T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/04/29/DaHongPao</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;public/images/Egg_Tart.jpg&quot; alt=&quot;milk tea from TeaDM&quot; /&gt;&lt;/p&gt;
+   <id>http://localhost:4000/2020/04/29/da-hong-pao</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  &lt;b&gt;website:&lt;/b&gt; &lt;a href=&quot;http://www.dahongpaorestaurant.com/&quot;&gt;dahongpaorestaurant.com&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;how to get it:&lt;/b&gt; takeout or order it &lt;a href=&quot;&quot;&gt;here&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;what it is:&lt;/b&gt; Cantonese Dim Sum
+&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/images/Egg_Tart.jpg&quot; alt=&quot;An Egg Tart from Da Hong Pao Dimsum&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chinese egg tarts or 蛋挞 are a classic dim sum dish. Similar to the Portuguese pasteis de nata.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+  &lt;p&gt;“Insert a quote here if you ever hear back from them haha”&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
-
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>TeaDM - Boba in Alexandria</title>
-   <link href="http://localhost:4000/2020/04/29/whats-jekyll/"/>
+   <title>TeaDM Bubble Tea</title>
+   <link href="http://localhost:4000/2020/04/29/teadm/"/>
    <updated>2020-04-29T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/04/29/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;public/images/Teadm_bubble_tea.jpg&quot; alt=&quot;milk tea from TeaDM&quot; /&gt;&lt;/p&gt;
+   <id>http://localhost:4000/2020/04/29/teadm</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  &lt;b&gt;website:&lt;/b&gt; &lt;a href=&quot;http://www.teadmlounge.com/&quot;&gt;teadmlounge.com&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;how to get it:&lt;/b&gt; takeout or order it &lt;a href=&quot;https://www.ubereats.com/washington-dc/food-delivery/teadm/UpeJZYMaSxaOlKSYVmUMWQ&quot;&gt;here&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;what it is:&lt;/b&gt; Vietnamese bubble tea shop
+&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/images/Teadm_bubble_tea.jpg&quot; alt=&quot;milk tea from TeaDM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chinese egg tarts or 蛋挞 are a classic dim sum dish. Similar to the Portuguese pasteis de nata.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+  &lt;p&gt;“Insert a quote here if you ever hear back from them haha”&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
-
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -78,66 +89,64 @@
    <updated>2020-04-14T00:00:00-04:00</updated>
    <id>http://localhost:4000/2020/04/14/dumplings-and-beyond</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  &lt;b&gt;website:&lt;/b&gt; &lt;a href=&quot;https://www.mealage.com/2foodmenu8.jsp?sessionid=1588538731823A6911381781100irexaucdcmmafrshmhpnxfqdrvcc&amp;amp;restaurantId=8042&amp;amp;categoryId=null&quot;&gt;Dumplings &amp;amp; Beyond&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;how to get it:&lt;/b&gt; takeout or call them--they do free delivery
+  &lt;br /&gt;
+  &lt;b&gt;what it is:&lt;/b&gt; Chinese dumplings (and beyond!)
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;public/images/Soup_Dumpling.jpg&quot; alt=&quot;dandan noodles from Tiger Fork&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/images/Soup_Dumpling.jpg&quot; alt=&quot;xiao long bao from dumplings and beyond&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;p&gt;Some description about XLB&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+  &lt;p&gt;“Insert a quote here if you ever hear back from them haha”&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
-   <title>CHIKO - Kimchi Stew</title>
-   <link href="http://localhost:4000/2020/04/03/introducing-lanyon/"/>
+   <title>Xi'An Gourmet</title>
+   <link href="http://localhost:4000/2020/04/14/xian-gourmet/"/>
+   <updated>2020-04-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2020/04/14/xian-gourmet</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  &lt;b&gt;website:&lt;/b&gt; &lt;a href=&quot;https://www.xiangourmetmd.com/&quot;&gt;Xi'An Gourmet&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;how to get it:&lt;/b&gt; takeout or call them--they do free delivery
+  &lt;br /&gt;
+  &lt;b&gt;what it is:&lt;/b&gt; Chinese dumplings (and beyond!)
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;public/images/Rou_Jia_Mo.jpg&quot; alt=&quot;chinese burger from dumplings and beyond&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some description about rou jia mo&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Insert a quote here if you ever hear back from them haha”&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mandu - Kimchi Stew</title>
+   <link href="http://localhost:4000/2020/04/03/mandu/"/>
    <updated>2020-04-03T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/04/03/introducing-lanyon</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;public/images/Kimchi_Jigae.jpg&quot; alt=&quot;CHIKO Kimchi Stew&quot; /&gt;&lt;/p&gt;
+   <id>http://localhost:4000/2020/04/03/mandu</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  &lt;b&gt;website:&lt;/b&gt; &lt;a href=&quot;https://www.mandudc.com/&quot;&gt;mandudc.com&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;how to get it:&lt;/b&gt; takeout or get it delivered &lt;a href=&quot;https://www.trycaviar.com/m/mandu--k-street-3379&quot;&gt;here&lt;/a&gt;
+  &lt;br /&gt;
+  &lt;b&gt;what it is:&lt;/b&gt; family-run, homey Korean fare
+&lt;/div&gt;
 
-&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/images/Kimchi_Jigae.jpg&quot; alt=&quot;Mandu Kimchi Stew&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
+&lt;p&gt;Some description about kimchi stew&lt;/p&gt;
 
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Lanyon here) includes the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;lanyon-features&quot;&gt;Lanyon features&lt;/h3&gt;
-
-&lt;p&gt;In addition to the features of Poole, Lanyon adds the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Toggleable sliding sidebar (built with only CSS) via &lt;strong&gt;☰&lt;/strong&gt; link in top corner&lt;/li&gt;
-  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/lanyon#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/poole/lanyon#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Lanyon is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;Mandu has started a staff relief gofundme for there restaurant staff and workers. You can access the link &lt;a href=&quot;https://www.gofundme.com/f/mandu-k-street-employee-relief-fund-covid19?utm_source=customer&amp;amp;utm_medium=copy_link-tip&amp;amp;utm_campaign=p_cp+share-sheet&quot;&gt;here&lt;/a&gt; to help them out.&lt;/p&gt;
 </content>
  </entry>
  
