@@ -4,7 +4,7 @@
  <title>Conversations in Quarantine</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-03T16:59:49-04:00</updated>
+ <updated>2020-05-03T17:13:30-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Shirley Zhou</name>
@@ -73,7 +73,7 @@
   &lt;b&gt;what it is:&lt;/b&gt; Vietnamese bubble tea shop
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;public/images/Teadm_bubble_tea.jpg&quot; alt=&quot;milk tea from TeaDM&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;public/images/Teadm_bubble_tea.JPG&quot; alt=&quot;milk tea from TeaDM&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Chinese egg tarts or 蛋挞 are a classic dim sum dish. Similar to the Portuguese pasteis de nata.&lt;/p&gt;
 
