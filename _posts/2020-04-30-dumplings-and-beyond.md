@@ -15,5 +15,3 @@ date: April 14, 2020
 ![xiao long bao from dumplings and beyond](public/images/Soup_Dumpling.jpg)
 
 Soup Dumplings or "xiao long bao" are cooked in a steamer as shown in the photo above. They are different from other dumplings because as the meat is cooked soup is formed within each dumpling.
-
-> "Insert a quote here if you ever hear back from them haha"

@@ -15,5 +15,3 @@ date: April 14, 2020
 ![chinese burger from dumplings and beyond](public/images/Rou_Jia_Mo.jpg)
 
 Rou Jia Mo is a Xi'An dish similar to an American burger. The "bread" is made of "mantou" and the filling varies but typically features stir-fried meat and vegetables.
-
-> "Insert a quote here if you ever hear back from them haha"
