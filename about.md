@@ -7,8 +7,6 @@ title: About
   Hey there! This site was built as a side project as part of the AIGA DC SHINE 2020 Design mentorship program in an attempt to improve my digital illustration skills and bring in the stories of local Asian American businesses in the DMV to understand what they're going through and most importantly to support them by buying their delicious food :)
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
 
 
 ## Setup

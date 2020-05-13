@@ -13,6 +13,6 @@ date: April 29, 2020
 
 ![An Egg Tart from Da Hong Pao Dimsum](public/images/Egg_Tart.jpg)
 
-Chinese egg tarts or 蛋挞 are a classic dim sum dish. Similar to the Portuguese pasteis de nata.
+Chinese egg tarts or 蛋挞 are a classic dim sum dish. Similar to the Portuguese pasteis de nata. Dim sum is a cantonese style meal eaten typically as a brunch or lunch featuring lots of tapa-sized dishes shared family-style.
 
 > "Insert a quote here if you ever hear back from them haha"

@@ -17,6 +17,6 @@ date: April 30, 2020
 
 Dandan noodles or **担担面** in Chinese is a traditional Szechuan noodle dish with a sauce made from sesame paste, chili oil and some ground meat. I love this dish for its spices-served cold to balance out that kick.  Tiger Fork's rendition adds lamb and cumin as well.
 
-> "Insert a quote here if you ever hear back from them haha"
+
 
 The management group which Tiger Fork is a part of has started a staff relief gofundme for there restaurant staff and workers. You can access the link [here](https://tinyurl.com/BHGFund) to help them out.
